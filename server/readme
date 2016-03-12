@@ -1,0 +1,6 @@
+For compiling:
+make -f make1
+
+For running:
+./server <portno>
+

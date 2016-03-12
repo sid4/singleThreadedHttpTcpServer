@@ -1,3 +1,5 @@
+Single Threaded HTTP TCP Server supporting persistent and non-persistent HTTP connections
+
 For compiling:
 make -f make1
 
